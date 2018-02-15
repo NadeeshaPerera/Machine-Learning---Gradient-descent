@@ -1,5 +1,5 @@
 # Machine-Learning---Gradient-descent
-Implement Linear and Logistic regression on a online news sharing data set
+Implement Linear and Logistic regression on a online news sharing data set in R.
 
 The online news sharing data set was downloaded from the following link.
 https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity#
